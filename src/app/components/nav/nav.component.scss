@@ -1,0 +1,21 @@
+.b-nav{
+    display: flex;
+    justify-content: center;
+    
+}
+.b-home{
+   display: flex;
+   gap: 0.3rem;
+   
+   color: white;
+}
+@media only screen and (max-width: 600px){    
+    .logoGrande{       display: none;     } }
+ @media only screen and (min-width: 601px){    
+    .logoCorto{       display: none;     } 
+   .b-space {justify-content: space-between;}
+   }
+
+.b-halp{
+   margin:1rem
+}

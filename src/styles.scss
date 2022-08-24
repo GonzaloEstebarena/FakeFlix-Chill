@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+ background-color: black;
+ margin:0px;
+ color: white;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ font-weight: 100;
+ font-family: Source;
+ 
+}
+
+nav {
+    margin:0px
+}
+
+@font-face {
+    font-family: Source;
+    src: url('../../netflix-app/src/font/Source_Sans_Pro/SourceSansPro-ExtraLight.ttf');
+}
